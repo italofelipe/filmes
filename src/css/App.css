@@ -3,11 +3,32 @@
 }
 .cartao {
 	box-shadow: none;
+	color: #333;
 }
+
 .cartao:hover {
 	box-shadow: 3px 5px 5px #ccc;
+	color: #333;
+	text-decoration: none;
 }
 .imagem {
+	width: 25%;
+	height: 250px;
+}
+.elenco-img {
 	width: 20%;
-	height: 100px;
+	height: 130px;
+}
+.elenco-nome {
+	position: absolute;
+	top: 35%;
+	right: 44%;
+}
+.nascimento {
+	position: absolute;
+	top: 50%;
+	right: 30%;
+}
+.navbar-brand {
+	color: #fff !important;
 }
