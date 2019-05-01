@@ -1,0 +1,13 @@
+.release {
+	display: inline;
+}
+.cartao {
+	box-shadow: none;
+}
+.cartao:hover {
+	box-shadow: 3px 5px 5px #ccc;
+}
+.imagem {
+	width: 20%;
+	height: 100px;
+}
