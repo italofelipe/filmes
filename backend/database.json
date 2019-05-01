@@ -4,7 +4,7 @@
 			"id": 1,
 			"movie": "Deadpool 1",
 			"image": "http://www.universohq.com/wp-content/uploads/2016/02/DeadpoolDiaNamorados.jpg",
-			"description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam aliquam accumsan tincidunt. Donec mattis nisl ut arcu fermentum, ac pulvinar nisi faucibus. Suspendisse et feugiat mi, nec dignissim sem. Praesent maximus metus dolor, eu mollis orci dictum eget. Quisque scelerisque est arcu, vel maximus risus elementum non. Aenean sodales consectetur vehicula. Aliquam venenatis odio nec quam commodo fermentum. Morbi a arcu faucibus, aliquet risus et, interdum turpis. Duis sed blandit arcu. Aliquam in aliquet leo. Vivamus maximus tristique enim eu rutrum. In pretium tristique turpis, sed consequat mauris fermentum a. Morbi venenatis cursus nunc, vel molestie libero rhoncus quis.",
+			"description": "Wade Wilson é um ex-agente especial que passou a trabalhar como mercenário. Seu mundo é destruído quando um cientista maligno o tortura e o desfigura completamente. O experimento brutal transforma Wade em Deadpool, que ganha poderes especiais de cura e uma força aprimorada. Com a ajuda de aliados poderosos e um senso de humor mais desbocado e cínico do que nunca, o irreverente anti-herói usa habilidades e métodos violentos para se vingar do homem que quase acabou com a sua vida.",
 			"release": "20/05/2016",
 			"elenco": [
 				{
@@ -28,7 +28,7 @@
 			"id": 2,
 			"movie": "Deadpool 2",
 			"image": "https://cdn.telecineplay.com.br/isl/api/v1/dataservice/ResizeImage/$value?Format=%27jpg%27&Quality=85&ImageId=%27179679%27&EntityType=%27Item%27&EntityId=%2711723%27&Width=720&Height=1080&device=web_browser&subscriptions=Anonymous",
-			"description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam aliquam accumsan tincidunt. Donec mattis nisl ut arcu fermentum, ac pulvinar nisi faucibus. Suspendisse et feugiat mi, nec dignissim sem. Praesent maximus metus dolor, eu mollis orci dictum eget. Quisque scelerisque est arcu, vel maximus risus elementum non. Aenean sodales consectetur vehicula. Aliquam venenatis odio nec quam commodo fermentum. Morbi a arcu faucibus, aliquet risus et, interdum turpis. Duis sed blandit arcu. Aliquam in aliquet leo. Vivamus maximus tristique enim eu rutrum. In pretium tristique turpis, sed consequat mauris fermentum a. Morbi venenatis cursus nunc, vel molestie libero rhoncus quis.",
+			"description": "O supersoldado Cable vem do futuro com a missão de assassinar o jovem mutante Russel e o mercenário Deadpool precisa aprender o que é ser herói de verdade para salvá-lo. Para isso, ele recruta seu velho amigo Colossus e forma o novo grupo X-Force, sempre com o apoio do fiel escudeiro Dopinder.",
 			"release": "20/05/2018",
 			"elenco": [
 				{
@@ -52,7 +52,7 @@
 			"id": 3,
 			"movie": "X Men 1",
 			"image": "https://images-na.ssl-images-amazon.com/images/I/81Pr0Tu0lXL._SY445_.jpg",
-			"description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam aliquam accumsan tincidunt. Donec mattis nisl ut arcu fermentum, ac pulvinar nisi faucibus. Suspendisse et feugiat mi, nec dignissim sem. Praesent maximus metus dolor, eu mollis orci dictum eget. Quisque scelerisque est arcu, vel maximus risus elementum non. Aenean sodales consectetur vehicula. Aliquam venenatis odio nec quam commodo fermentum. Morbi a arcu faucibus, aliquet risus et, interdum turpis. Duis sed blandit arcu. Aliquam in aliquet leo. Vivamus maximus tristique enim eu rutrum. In pretium tristique turpis, sed consequat mauris fermentum a. Morbi venenatis cursus nunc, vel molestie libero rhoncus quis.",
+			"description": "Eles são filhos do átomo superior, o próximo elo na corrente da evolução. Cada um nasceu com uma mutação genética rara, que na puberdade se manifestou em poderes extraordinários. Em um mundo cheio de ódio e preconceito, eles são temidos por aqueles que não podem aceitar suas diferenças. Liderados por Xavier, os X-Men lutam para proteger um mundo que os teme. Eles estão presos em uma batalha contra um ex-colega e amigo, Magneto, que acredita que os humanos e os mutantes não devem viver juntos.",
 			"release": "20/05/2018",
 			"elenco": [
 				{
@@ -76,7 +76,7 @@
 			"id": 4,
 			"movie": "X Men 2",
 			"image": "https://fanart.tv/fanart/movies/36658/movieposter/x2-x-men-united-5224830831497.jpg",
-			"description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam aliquam accumsan tincidunt. Donec mattis nisl ut arcu fermentum, ac pulvinar nisi faucibus. Suspendisse et feugiat mi, nec dignissim sem. Praesent maximus metus dolor, eu mollis orci dictum eget. Quisque scelerisque est arcu, vel maximus risus elementum non. Aenean sodales consectetur vehicula. Aliquam venenatis odio nec quam commodo fermentum. Morbi a arcu faucibus, aliquet risus et, interdum turpis. Duis sed blandit arcu. Aliquam in aliquet leo. Vivamus maximus tristique enim eu rutrum. In pretium tristique turpis, sed consequat mauris fermentum a. Morbi venenatis cursus nunc, vel molestie libero rhoncus quis.",
+			"description": "Stryker, um ex-comandante perverso do exército, tem a chave para o passado de Wolverine e o futuro dos X-Men. Esta ameaça reacende a chamada para um ato de registro mutante. Stryker inicia um ataque à mansão e escola do Professor Xavier. Depois de escapar de sua cela de plástico, Magneto propõe uma parceria com Xavier e os X-Men para combater esse novo inimigo que ambos têm em comum.",
 			"release": "20/05/2018",
 			"elenco": [
 				{
@@ -100,7 +100,7 @@
 			"id": 5,
 			"movie": "X Men - Confronto Final",
 			"image": "https://media.fstatic.com/s1mEOPrjjeqZ8B-WtQvs_JOMY2c=/fit-in/290x478/smart/media/movies/covers/2015/10/x-men-o-confronto-final_t1214.png",
-			"description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam aliquam accumsan tincidunt. Donec mattis nisl ut arcu fermentum, ac pulvinar nisi faucibus. Suspendisse et feugiat mi, nec dignissim sem. Praesent maximus metus dolor, eu mollis orci dictum eget. Quisque scelerisque est arcu, vel maximus risus elementum non. Aenean sodales consectetur vehicula. Aliquam venenatis odio nec quam commodo fermentum. Morbi a arcu faucibus, aliquet risus et, interdum turpis. Duis sed blandit arcu. Aliquam in aliquet leo. Vivamus maximus tristique enim eu rutrum. In pretium tristique turpis, sed consequat mauris fermentum a. Morbi venenatis cursus nunc, vel molestie libero rhoncus quis.",
+			"description": "A descoberta de uma cura para as mutações leva os mutantes a um ponto decisivo. Eles podem escolher entre abandonar seus poderes e se tornarem humanos ou continuar com os poderes e permanecerem excluídos. Uma batalha é travada entre os simpatizantes de Charles Xavier, que prega a tolerância, e os seguidores de Magneto, que defende a sobrevivência dos mais fortes.",
 			"release": "20/05/2018",
 			"elenco": [
 				{
@@ -124,7 +124,7 @@
 			"id": 6,
 			"movie": "X Men Origins: Wolverine",
 			"image": "http://www.vortexcultural.com.br/images/2018/05/Wolverine-Origens.jpg",
-			"description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam aliquam accumsan tincidunt. Donec mattis nisl ut arcu fermentum, ac pulvinar nisi faucibus. Suspendisse et feugiat mi, nec dignissim sem. Praesent maximus metus dolor, eu mollis orci dictum eget. Quisque scelerisque est arcu, vel maximus risus elementum non. Aenean sodales consectetur vehicula. Aliquam venenatis odio nec quam commodo fermentum. Morbi a arcu faucibus, aliquet risus et, interdum turpis. Duis sed blandit arcu. Aliquam in aliquet leo. Vivamus maximus tristique enim eu rutrum. In pretium tristique turpis, sed consequat mauris fermentum a. Morbi venenatis cursus nunc, vel molestie libero rhoncus quis.",
+			"description": "Tentando esquecer seu passado sombrio, Logan, mais conhecido como Wolverine, parece ter encontrado o amor e a felicidade com Kayla Silverfox. Mas a paz de Logan é abalada quando Victor Creed, seu irmão cruel, assassina brutalmente Kayla. A sede de vingança de Logan o leva ao programa Arma X. Ele passa por um processo doloroso para fortalecer seus ossos com adamantium, o que o torna praticamente indestrutível.",
 			"release": "20/05/2018",
 			"elenco": [
 				{
@@ -148,7 +148,7 @@
 			"id": 7,
 			"movie": "X Men - Primeira Classe",
 			"image": "https://cinegarimpo.com.br/wp/content/uploads/2011/06/cinegarimpo_x-men-286x425.jpg",
-			"description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam aliquam accumsan tincidunt. Donec mattis nisl ut arcu fermentum, ac pulvinar nisi faucibus. Suspendisse et feugiat mi, nec dignissim sem. Praesent maximus metus dolor, eu mollis orci dictum eget. Quisque scelerisque est arcu, vel maximus risus elementum non. Aenean sodales consectetur vehicula. Aliquam venenatis odio nec quam commodo fermentum. Morbi a arcu faucibus, aliquet risus et, interdum turpis. Duis sed blandit arcu. Aliquam in aliquet leo. Vivamus maximus tristique enim eu rutrum. In pretium tristique turpis, sed consequat mauris fermentum a. Morbi venenatis cursus nunc, vel molestie libero rhoncus quis.",
+			"description": "No início dos anos 1960, durante o auge da Guerra Fria, um mutante chamado Charles Xavier conhece um mutante chamado Erik Lehnsherr. Apesar de suas origens muito diferentes - Charles cresceu em uma família rica enquanto Erik perdeu seus pais em Auschwitz -, os dois se tornam grandes amigos. Enquanto o mundo oscila à beira de uma guerra nuclear, Charles e Erik unem forças com outros mutantes para salvar a humanidade. No entanto, um acontecimento separa os dois amigos.",
 			"release": "20/05/2018",
 			"elenco": [
 				{
@@ -172,7 +172,7 @@
 			"id": 8,
 			"movie": "X Men: Dias de um Futuro Esquecido",
 			"image": "https://i1.wp.com/senhorcastanha.com/wp-content/uploads/2014/05/xmendaysofuturepast2.jpg",
-			"description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam aliquam accumsan tincidunt. Donec mattis nisl ut arcu fermentum, ac pulvinar nisi faucibus. Suspendisse et feugiat mi, nec dignissim sem. Praesent maximus metus dolor, eu mollis orci dictum eget. Quisque scelerisque est arcu, vel maximus risus elementum non. Aenean sodales consectetur vehicula. Aliquam venenatis odio nec quam commodo fermentum. Morbi a arcu faucibus, aliquet risus et, interdum turpis. Duis sed blandit arcu. Aliquam in aliquet leo. Vivamus maximus tristique enim eu rutrum. In pretium tristique turpis, sed consequat mauris fermentum a. Morbi venenatis cursus nunc, vel molestie libero rhoncus quis.",
+			"description": "Convencido de que os mutantes são uma ameaça para a humanidade, o Dr. Bolivar Trask desenvolve os Sentinelas, gigantescos robôs, que os perseguem impiedosamente. Os poucos sobreviventes têm que viver escondidos. Entre eles está Wolverine, que viaja no tempo, rumo aos anos 1970, a fim de impedir que este futuro trágico para os mutantes se torne realidade.",
 			"release": "20/05/2018",
 			"elenco": [
 				{
@@ -196,7 +196,7 @@
 			"id": 9,
 			"movie": "X Men: Apocalipse",
 			"image": "https://upload.wikimedia.org/wikipedia/pt/thumb/e/e6/Xmen_apocalypse_ver18.jpg/250px-Xmen_apocalypse_ver18.jpg",
-			"description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam aliquam accumsan tincidunt. Donec mattis nisl ut arcu fermentum, ac pulvinar nisi faucibus. Suspendisse et feugiat mi, nec dignissim sem. Praesent maximus metus dolor, eu mollis orci dictum eget. Quisque scelerisque est arcu, vel maximus risus elementum non. Aenean sodales consectetur vehicula. Aliquam venenatis odio nec quam commodo fermentum. Morbi a arcu faucibus, aliquet risus et, interdum turpis. Duis sed blandit arcu. Aliquam in aliquet leo. Vivamus maximus tristique enim eu rutrum. In pretium tristique turpis, sed consequat mauris fermentum a. Morbi venenatis cursus nunc, vel molestie libero rhoncus quis.",
+			"description": "O primeiro mutante destruidor do mundo, Apocalipse, está de volta disposto a acabar com a humanidade. Professor Xavier conta com Mística, Fera e Mercúrio, além de novos alunos, para impedir o vilão.",
 			"release": "20/05/2018",
 			"elenco": [
 				{
@@ -220,7 +220,7 @@
 			"id": 10,
 			"movie": "Logan",
 			"image": "https://upload.wikimedia.org/wikipedia/pt/2/2d/Filme_Logan_2017.jpg",
-			"description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam aliquam accumsan tincidunt. Donec mattis nisl ut arcu fermentum, ac pulvinar nisi faucibus. Suspendisse et feugiat mi, nec dignissim sem. Praesent maximus metus dolor, eu mollis orci dictum eget. Quisque scelerisque est arcu, vel maximus risus elementum non. Aenean sodales consectetur vehicula. Aliquam venenatis odio nec quam commodo fermentum. Morbi a arcu faucibus, aliquet risus et, interdum turpis. Duis sed blandit arcu. Aliquam in aliquet leo. Vivamus maximus tristique enim eu rutrum. In pretium tristique turpis, sed consequat mauris fermentum a. Morbi venenatis cursus nunc, vel molestie libero rhoncus quis.",
+			"description": "Em 2024, os mutantes estão em franco declínio, e as pessoas não sabem o real motivo. Uma organização está transformando as crianças mutantes em verdadeiras assassinas. Wolverine, cansado de tudo e a pedido de um cada vez mais enfraquecido Professor Xavier, precisa proteger a jovem e poderosa Laura Kinney, conhecida como X-23. Enquanto isso, o vilão Nathaniel Essex amplia seu projeto de destruição.",
 			"release": "20/05/2018",
 			"elenco": [
 				{

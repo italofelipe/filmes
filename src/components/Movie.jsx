@@ -35,10 +35,17 @@ class Movie extends Component {
 		const { nome, nascimento, foto } = this.state.elenco;
 		const elencoFilme = this.state.elenco.map((itens) => {
 			return (
-				<div className="card mt-2 p-3">
-					<p className="card-title elenco-nome">Nome: {itens.nome}</p>
-					<img className="card-img elenco-img" src={itens.foto} alt={itens.nome} />
-					<span className="nascimento">Data de nascimento: {itens.nascimento}</span>
+				<div className="card mt-3 pl-2 pt-3 pb-3 pr-2">
+					<div className="row">
+						<div className="col-md-6">
+							<img className="card-img elenco-img" src={itens.foto} alt={itens.nome} />
+						</div>
+
+						<div className="col-md-6">
+							<p className="card-title elenco-nome">Nome: {itens.nome}</p>
+							<span className="nascimento">Data de nascimento: {itens.nascimento}</span>
+						</div>
+					</div>
 				</div>
 			);
 		});
@@ -48,24 +55,22 @@ class Movie extends Component {
 		return (
 			<div className="container">
 				<div className="row">
-					<Link to="/">
-						<button className="btn btn-primary">Voltar</button>
-					</Link>
-					<div className="col-md-10">
-						<div className="card mt-5">
+					<button className="btn btn-primary">
+						<Link to="/">Voltar</Link>
+					</button>
+				</div>
+				<div className="row">
+					<div className="card mt-5">
+						<div className="col-md-10">
 							<div className="row">
 								<div className="col-md-4">
-									<img src={image} alt={description} className="card-img" />
+									<img src={image} alt={description} className="card-img mt-1 mb-1" />
 								</div>
-								<div className="col-md-8">
-									<div className="card-title m-4">
-										<h2>{movie}</h2>
-									</div>
-								</div>
-							</div>
 
-							<div className="card-body m-4">
-								<p>{description}</p>
+								<div className="col-md-8">
+									<h2 className="movie-title">{movie}</h2>
+									<p className="movie-description">{description}</p>
+								</div>
 							</div>
 						</div>
 					</div>
