@@ -1,6 +1,5 @@
 import React, { Component } from 'react';
 import { Link } from 'react-router-dom';
-import image1 from '../assets/1.png';
 import '../css/App.css';
 
 class SinglePost extends Component {
