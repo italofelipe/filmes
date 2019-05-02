@@ -1,68 +1,14 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Teste da TIT - Filmes
 
-## Available Scripts
 
-In the project directory, you can run:
+Para acessar a aplicação, basta seguir os passos a seguir.
 
-### `npm start`
+1 - Clone esse repositório para a sua máquina usando a linha de comando do GIT ou baixando Zip. Se usar o Zip, extraia a pasta.
 
-Runs the app in the development mode.<br>
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+2 - Uma vez clonado/extraída a pasta do projeto (o nome da pasta é filmes), pelo terminal, entre na pasta do projeto.
 
-The page will reload if you make edits.<br>
-You will also see any lint errors in the console.
+3 - Dentro da pasta do projeto, digite o comando npm i. Esse comando irá instalar as dependências do projeto. Uma vez finalizada a instalação, navegue para a pasta "backend", e la dentro, execute o mesmo comando, "npm i". Isso se faz necessário para rodar a API fake que serve dados para o client da aplicação.
 
-### `npm test`
+4 - Finalzada a instalação das dependencias na pasta backend, execute o comando "cd .." para voltar para a pasta raíz do projeto, e lá, execute o comando "npm run dev". Esse comando é essencial, pois ele inicia simultaneamente o front e o backend da aplicação. Certifique-se antes que nao tenha nada rodando nas portas 3000 e 3003 antes de executar o comando, ou então a aplicação nao será iniciada corretamente.
 
-Launches the test runner in the interactive watch mode.<br>
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.<br>
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.<br>
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (Webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/code-splitting
-
-### Analyzing the Bundle Size
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size
-
-### Making a Progressive Web App
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app
-
-### Advanced Configuration
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/advanced-configuration
-
-### Deployment
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/deployment
-
-### `npm run build` fails to minify
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+5 - Aguarde até a aplicação ser completamente inicializada, isso deverá demorar alguns instantes. Se tudo tiver sido feito corretamente, uma página no navegador deverá ser aberta automaticamente, e nela, estará rodando a aplicação.
