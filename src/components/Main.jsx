@@ -4,6 +4,7 @@ import SingleMovie from "./SingleMovie";
 import Pagination from "../utils/Pagination";
 import Paginate from "../utils/Paginate";
 import axios from "axios";
+import lupa from "../assets/u1.png";
 class Main extends Component {
   state = {
     movies: [],
@@ -57,13 +58,16 @@ class Main extends Component {
       <div className="container-fluid">
         <div className="row justify-content-center mt-3">
           <div className="col-md-6">
-            <input
-              className="form-control"
-              type="text"
-              onInput={e => this.handleSearch(e)}
-              placeholder="O que você procura?"
-              value={this.state.input}
-            />
+            <div className="row">
+              <input
+                className="col-8 form-control"
+                type="text"
+                onInput={e => this.handleSearch(e)}
+                placeholder="O que você procura?"
+                value={this.state.input}
+              />
+              <img src={lupa} alt="procurar" className="lupa" />
+            </div>
           </div>
         </div>
         <div className="row justify-content-center">
