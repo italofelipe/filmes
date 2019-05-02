@@ -35,7 +35,7 @@ class Movie extends Component {
 		const { nome, nascimento, foto } = this.state.elenco;
 		const elencoFilme = this.state.elenco.map((itens) => {
 			return (
-				<div className="card mt-3 pl-2 pt-3 pb-3 pr-2">
+				<div key={itens.id} className="card mt-3 pl-2 pt-3 pb-3 pr-2">
 					<div className="row">
 						<div className="col-md-6">
 							<img className="card-img elenco-img" src={itens.foto} alt={itens.nome} />
